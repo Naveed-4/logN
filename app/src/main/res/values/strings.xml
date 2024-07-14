@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogN</string>
+    <string name="enable_logging">Enable Logging</string>
+    <string name="set_custom_location">Set Custom Location(Recommended)</string>
+    <string name="filter_button_description">Filter apps</string>
+    <string name="sort_button_description">Sort apps</string>
+    <string name="app_icon_description">App icon</string>
+</resources>

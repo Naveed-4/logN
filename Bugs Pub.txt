@@ -1,0 +1,7 @@
+v1.0
+201214072024
+Detected Bugs:-
+1. If Custom location is not set. File is not created at default storage.
+2. Default Storage directory is missing in android->data->
+3. New Selected apps are only shown in Selected app list when app is closed and opened again i.e., restared
+4. File is UNencrypted, Is NOT password-protected.
