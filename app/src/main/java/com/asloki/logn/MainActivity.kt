@@ -24,6 +24,7 @@ import com.google.android.material.switchmaterial.SwitchMaterial
 
 class MainActivity : AppCompatActivity() {
 
+    val ExperimentingWithBranchesandCommits = println("Nothing")
     private lateinit var recyclerView: RecyclerView
     private lateinit var adapter: AppListAdapter
     private lateinit var serviceSwitch: SwitchMaterial
